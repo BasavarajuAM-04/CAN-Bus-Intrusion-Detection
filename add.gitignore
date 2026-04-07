@@ -1,0 +1,7 @@
+
+"CAN Bus Intrusion Detection: A cybersecurity model detecting malicious packet injections in Electric Vehicle (EV) Controller Area Networks using anomaly detection."
+
+__pycache__/
+*.pyc
+.env
+*.log

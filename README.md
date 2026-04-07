@@ -6,4 +6,4 @@ A cybersecurity model that detects malicious packet injections in Electric Vehic
 - Analyzes CAN logs for suspicious activity
 - Flags potential cyber attacks in real-time
 - Built with machine learning for robust detection
-- 
+  
